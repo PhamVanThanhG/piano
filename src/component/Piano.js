@@ -7,7 +7,7 @@ import {
     Button
 } from 'react-native';
 import SoundPlayer from 'react-native-sound-player';
-import Key from './component/Key';
+import Key from './Key';
 
 const Piano = () => {
     const soundList = ["a3s", "b3", "c4", "c4s", "d4", "d4s", "e4", "f4", "f4s", "g4", "g4s", "a4", "a4s", "b4", "c5", "c5s"];
